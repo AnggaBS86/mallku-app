@@ -22,3 +22,24 @@ Step by step installation :
 4. Run the php artisan serve
 
 
+# mallku-app (frontend react js)
+
+## How to installation
+
+Requirements : node js and npm
+
+We use NVM for node js and npm installation
+
+Step by step installation are : 
+- Install `nvm` (https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-20-04#option-3-installing-node-using-the-node-version-manager)
+- Install node js : `nvm install node`
+- Install npm : `sudo apt-get install npm`
+
+## How to run 
+1. node install
+2. node start
+3. then the browser being opened at http://localhost:3000
+
+![Screenshot from 2024-09-08 13-31-31](https://github.com/user-attachments/assets/4af1b494-91b2-4ae4-9688-59ac259e2596)
+
+
